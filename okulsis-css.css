@@ -1,0 +1,69 @@
+body{
+    background: #00163b;
+}
+.container .banner-box{
+    border: solid #fff;
+    background:#fff;
+    border-radius: 50px;
+    width: 500px;
+    height: 400px;
+    position:absolute;
+    top: 40px;
+    left: 520px;
+}
+img{
+    top: 100px;
+    left: 115px;
+    position: absolute;
+}
+.kullaniciadi{
+    height: 40px;
+    width: 250px;
+    margin-top: 200px;
+    margin-left: 120px;
+    border: 2px solid #00163b;
+    border-radius: 40px;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    -ms-border-radius: 40px;
+    -o-border-radius: 40px;
+    outline: none;
+    text-indent: 10px;
+}
+.sifre{
+    height: 40px;
+    width: 250px;
+    margin-top: 10px;
+    margin-left: 120px;
+    border: 2px solid #00163b;
+    border-radius: 40px;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    -ms-border-radius: 40px;
+    -o-border-radius: 40px;
+    outline: none;
+    text-indent: 10px;
+    font-size: 15px;
+    color: gray;
+}
+button{
+    position: absolute;
+    margin-top: 80px;
+    left: 105px;
+    height: 60px;
+    width: 300px;
+    background: transparent;
+    border-radius: 60px;
+    -webkit-border-radius: 60px;
+    -moz-border-radius: 60px;
+    -ms-border-radius: 60px;
+    -o-border-radius: 60px;
+    border: 2px solid #467082;
+    outline: none;
+    background: #1b4365;
+    color: #fff;
+    font-size: 20px;
+}
+.container .banner-box i{
+    margin-right: 10px;
+}
